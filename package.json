@@ -1,0 +1,11 @@
+{
+  "name": "aws-node-rest-api-mongodb",
+  "version": "1.0.0",
+  "description": "Serverless API to add new user object to database",
+  "main": "handler.js",
+  "dependencies": {
+    "mongodb": "^3.6.0"
+  },
+  "author": "Ethan Cheatma <ethanwcheatham@gmail.com>",
+  "license": "MIT"
+}
